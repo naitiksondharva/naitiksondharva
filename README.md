@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://git-hub-profile-views.vercel.app/ghpvc/?username=naitiksondharva)
+![](https://git-hub-profile-views.vercel.app/ghpvc/?username=naitiksondharva&color=green&style=flat-square)
 <!--
 **naitiksondharva/naitiksondharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
